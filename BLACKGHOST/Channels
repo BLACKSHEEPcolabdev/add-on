@@ -1,185 +1,38 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="tv.atalaia.br" tvg-name="RECORD TV ATALAIA HD" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV ATALAIA HD
-http://gol7990.com:80/live/vini105/884512ab/469815.m3u8
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL SD
-http://gol7990.com:80/live/vini105/884512ab/4307.m3u8
-#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY SD¹" tvg-logo="https://prostore.app/logos/history.png" group-title="CANAIS | DOCUMENTARIO",HISTORY SD¹
-http://gol7990.com:80/live/vini105/884512ab/4314.m3u8
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TC PREMIUM SD" tvg-logo="https://prostore.app/logos/telecinepremiu.png" group-title="CANAIS | TELECINE",TC PREMIUM SD
-http://gol7990.com:80/live/vini105/884512ab/4316.m3u8
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TC FUN SD" tvg-logo="https://prostore.app/logos/telecinefun.png" group-title="CANAIS | TELECINE",TC FUN SD
-http://gol7990.com:80/live/vini105/884512ab/4318.m3u8
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TC CULT SD" tvg-logo="https://prostore.app/logos/telecineculte.png" group-title="CANAIS | TELECINE",TC CULT SD
-http://gol7990.com:80/live/vini105/884512ab/4319.m3u8
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TC ACTION SD" tvg-logo="https://prostore.app/logos/tcactinone.png" group-title="CANAIS | TELECINE",TC ACTION SD
-http://gol7990.com:80/live/vini105/884512ab/4320.m3u8
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://images2.imgbox.com/76/53/pJquJCtz_o.png" group-title="CANAIS | FILMES E SERIES",TCM SD
-http://gol7990.com:80/live/vini105/884512ab/4321.m3u8
-#EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS SD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS SD
-http://gol7990.com:80/live/vini105/884512ab/4322.m3u8
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE SD
-http://gol7990.com:80/live/vini105/884512ab/4328.m3u8
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX SD
-http://gol7990.com:80/live/vini105/884512ab/4354.m3u8
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://prostore.app/logos/hbomundisd.png" group-title="CANAIS | HBO",HBO MUNDI SD
-http://gol7990.com:80/live/vini105/884512ab/4358.m3u8
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY SD¹" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY SD¹
-http://gol7990.com:80/live/vini105/884512ab/4360.m3u8
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://prostore.app/logos/hbosignaturefhd.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
-http://gol7990.com:80/live/vini105/884512ab/4361.m3u8
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO + PLUS SD" tvg-logo="https://prostore.app/logos/hboplusfhd.png" group-title="CANAIS | HBO",HBO + PLUS SD
-http://gol7990.com:80/live/vini105/884512ab/4363.m3u8
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD" tvg-logo="https://prostore.app/logos/hbofamily1.png" group-title="CANAIS | HBO",HBO FAMILY SD
-http://gol7990.com:80/live/vini105/884512ab/4364.m3u8
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="https://prostore.app/logos/hbo2h.png" group-title="CANAIS | HBO",HBO 2 SD
-http://gol7990.com:80/live/vini105/884512ab/4365.m3u8
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD ²" tvg-logo="https://prostore.app/logos/hbo2h.png" group-title="CANAIS | HBO",HBO 2 SD ²
-http://gol7990.com:80/live/vini105/884512ab/643543.m3u8
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="http://prostore.app/logos/hbo1.png" group-title="CANAIS | HBO",HBO SD
-http://gol7990.com:80/live/vini105/884512ab/4366.m3u8
-#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 SD²" tvg-logo="https://prostore.app/logos/history2.png" group-title="CANAIS | DOCUMENTARIO",HISTORY 2 SD²
-http://gol7990.com:80/live/vini105/884512ab/4367.m3u8
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://prostore.app/logos/fx.png" group-title="CANAIS | FILMES E SERIES",FX SD
-http://gol7990.com:80/live/vini105/884512ab/4371.m3u8
-#EXTINF:-1 tvg-id="fish.br" tvg-name="FISH TV SD¹" tvg-logo="https://prostore.app/logos/fishtv.png" group-title="CANAIS | DOCUMENTARIO",FISH TV SD¹
-http://gol7990.com:80/live/vini105/884512ab/4377.m3u8
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD¹" tvg-logo="https://prostore.app/logos/E!.png" group-title="CANAIS | VARIEDADES",E! SD¹
-http://gol7990.com:80/live/vini105/884512ab/4382.m3u8
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL SD¹" tvg-logo="https://prostore.app/logos/Comedicentral.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD¹
-http://gol7990.com:80/live/vini105/884512ab/4391.m3u8
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://prostore.app/logos/cinemax.png" group-title="CANAIS | FILMES E SERIES",CINEMAX SD
-http://gol7990.com:80/live/vini105/884512ab/4393.m3u8
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD" tvg-logo="https://prostore.app/logos/Canalsony.png" group-title="CANAIS | FILMES E SERIES",SONY SD
-http://gol7990.com:80/live/vini105/884512ab/4395.m3u8
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV SD¹" tvg-logo="https://prostore.app/logos/redetv.png" group-title="CANAIS | ABERTO",REDE TV SD¹
-http://gol7990.com:80/live/vini105/884512ab/4420.m3u8
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA SD¹" tvg-logo="https://prostore.app/logos/vi-va.png" group-title="CANAIS | VARIEDADES",VIVA SD¹
-http://gol7990.com:80/live/vini105/884512ab/6928.m3u8
-#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="TV REDE VIDA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Rede_Vida.jpg" group-title="CANAIS | RELIGIOSOS",TV REDE VIDA
-http://gol7990.com:80/live/vini105/884512ab/6939.m3u8
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://prostore.app/logos/paramount.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT CHANNEL SD
-http://gol7990.com:80/live/vini105/884512ab/6946.m3u8
-#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV NOVO TEMPO" tvg-logo="https://prostore.app/logos/novotempo.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO
-http://gol7990.com:80/live/vini105/884512ab/6948.m3u8
-#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK SD¹" tvg-logo="https://prostore.app/logos/foodnetwork.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD¹
-http://gol7990.com:80/live/vini105/884512ab/6959.m3u8
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD¹" tvg-logo="https://prostore.app/logos/canalbrasil.png" group-title="CANAIS | ABERTO",CANAL BRASIL SD¹
-http://gol7990.com:80/live/vini105/884512ab/6963.m3u8
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD¹" tvg-logo="https://prostore.app/logos/lifetime.png" group-title="CANAIS | VARIEDADES",LIFETIME SD¹
-http://gol7990.com:80/live/vini105/884512ab/7876.m3u8
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD¹" tvg-logo="https://prostore.app/logos/hgtv.png" group-title="CANAIS | DOCUMENTARIO",HGTV SD¹
-http://gol7990.com:80/live/vini105/884512ab/10236.m3u8
-#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! SD¹" tvg-logo="https://prostore.app/logos/curta!.png" group-title="CANAIS | VARIEDADES",CURTA! SD¹
-http://gol7990.com:80/live/vini105/884512ab/10291.m3u8
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://prostore.app/logos/wooh.png" group-title="CANAIS | FILMES E SERIES",WOOHOO SD
-http://gol7990.com:80/live/vini105/884512ab/20453.m3u8
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://prostore.app/logos/amc.png" group-title="CANAIS | FILMES E SERIES",AMC SD
-http://gol7990.com:80/live/vini105/884512ab/20891.m3u8
-#EXTINF:-1 tvg-id="Tvpaieterno.br" tvg-name="TV PAI ETERNO" tvg-logo="https://4.bp.blogspot.com/-OSle1HHVGkQ/XU37Y7_OFGI/AAAAAAAABak/GOwP-ahqQYcmD5AiBxaxMWhRTlyRXyg2QCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-08-09-19-59-48.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO
-http://gol7990.com:80/live/vini105/884512ab/45595.m3u8
-#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN BRASIL SD¹" tvg-logo="https://prostore.app/logos/cnnbrasil.png" group-title="CANAIS | NOTICIA",CNN BRASIL SD¹
-http://gol7990.com:80/live/vini105/884512ab/57528.m3u8
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD" tvg-logo="https://prostore.app/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES SD
-http://gol7990.com:80/live/vini105/884512ab/61019.m3u8
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="https://prostore.app/logos/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL SD¹
-http://gol7990.com:80/live/vini105/884512ab/61074.m3u8
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD²" tvg-logo="https://prostore.app/logos/tlc.png" group-title="CANAIS | DOCUMENTARIO",TLC SD²
-http://gol7990.com:80/live/vini105/884512ab/61178.m3u8
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME SD" tvg-logo="https://prostore.app/logos/hboxtremehd.png" group-title="CANAIS | HBO",HBO XTREME SD
-http://gol7990.com:80/live/vini105/884512ab/62850.m3u8
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD¹" tvg-logo="https://prostore.app/logos/multishow.png" group-title="CANAIS | VARIEDADES",MULTISHOW SD¹
-http://gol7990.com:80/live/vini105/884512ab/96569.m3u8
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="https://prostore.app/logos/syfy.png" group-title="CANAIS | FILMES E SERIES",SYFY SD
-http://gol7990.com:80/live/vini105/884512ab/97129.m3u8
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://prostore.app/logos/studiouniversal.png" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL SD
-http://gol7990.com:80/live/vini105/884512ab/97156.m3u8
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H SD¹" tvg-logo="https://prostore.app/logos/discovery1.png" group-title="CANAIS | DISCOVERY",DISCOVERY H&H SD¹
-http://gol7990.com:80/live/vini105/884512ab/97177.m3u8
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO SD¹" tvg-logo="https://prostore.app/logos/discoverytudbo.png" group-title="CANAIS | DISCOVERY",DISCOVERY TURBO SD¹
-http://gol7990.com:80/live/vini105/884512ab/97192.m3u8
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD SD¹" tvg-logo="https://images2.imgbox.com/00/c4/47GmQnDN_o.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD SD¹
-http://gol7990.com:80/live/vini105/884512ab/97195.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://images2.imgbox.com/06/5d/tjHaxHl8_o.png" group-title="CANAIS | FILMES E SERIES",A&E SD
-http://gol7990.com:80/live/vini105/884512ab/97221.m3u8
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://prostore.app/logos/axn.png" group-title="CANAIS | FILMES E SERIES",AXN SD
-http://gol7990.com:80/live/vini105/884512ab/97227.m3u8
-#EXTINF:-1 tvg-id="eptv.ribeirao.preto.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD¹
-http://gol7990.com:80/live/vini105/884512ab/97372.m3u8
-#EXTINF:-1 tvg-id="eptv.central.br" tvg-name="GLOBO EPTV CENTRAL SAO CARLOS SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CENTRAL SAO CARLOS SD¹
-http://gol7990.com:80/live/vini105/884512ab/97376.m3u8
-#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO NORDESTE SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO NORDESTE SD¹
-http://gol7990.com:80/live/vini105/884512ab/97392.m3u8
-#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="GLOBO NSC FLORIANOPOLIS SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO NSC FLORIANOPOLIS SD¹
-http://gol7990.com:80/live/vini105/884512ab/97396.m3u8
-#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS TV POA SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",Globo RBS TV POA SD¹
-http://gol7990.com:80/live/vini105/884512ab/97407.m3u8
-#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="GLOBO TV BELEM SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV BELEM SD¹
-http://gol7990.com:80/live/vini105/884512ab/97435.m3u8
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA SD²
-http://gol7990.com:80/live/vini105/884512ab/97438.m3u8
-#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="GLOBO TV MORENA SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV MORENA SD²
-http://gol7990.com:80/live/vini105/884512ab/97447.m3u8
-#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO SJ DO RIO PRETO SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO SJ DO RIO PRETO SD¹
-http://gol7990.com:80/live/vini105/884512ab/97450.m3u8
-#EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="GLOBO SANTOS TV TRIBUNAS SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO SANTOS TV TRIBUNAS SD²
-http://gol7990.com:80/live/vini105/884512ab/97454.m3u8
-#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOOBO TV VERDES MARES SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOOBO TV VERDES MARES SD¹
-http://gol7990.com:80/live/vini105/884512ab/97458.m3u8
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="STAR LIFE SD" tvg-logo="https://www.sky.com.br/documents/1407842/46756000/Star_LIFE_COLOR_360x330.png" group-title="CANAIS | FILMES E SERIES",STAR LIFE SD
-http://gol7990.com:80/live/vini105/884512ab/97583.m3u8
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL TV SD
-http://gol7990.com:80/live/vini105/884512ab/97594.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAIS NA TELA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Mais_na_Tela_%282020%29.png" group-title="CANAIS | VARIEDADES",MAIS NA TELA SD
-http://gol7990.com:80/live/vini105/884512ab/97645.m3u8
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://prostore.app/logos/toncast.png" group-title="CANAIS | INFANTIS",TOONCAST SD
-http://gol7990.com:80/live/vini105/884512ab/100223.m3u8
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://prostore.app/logos/zoomoh.png" group-title="CANAIS | INFANTIS",ZOOMOO SD
-http://gol7990.com:80/live/vini105/884512ab/100230.m3u8
-#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="https://images2.imgbox.com/33/a5/7Hopdu2D_o.png" group-title="CANAIS | INFANTIS",TV RA TIM BUM SD
-http://gol7990.com:80/live/vini105/884512ab/100233.m3u8
-#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV SD" tvg-logo="https://prostore.app/logos/babytv.png" group-title="CANAIS | INFANTIS",BABY TV SD
-http://gol7990.com:80/live/vini105/884512ab/100245.m3u8
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO SD" tvg-logo="https://prostore.app/logos/cartonito.png" group-title="CANAIS | INFANTIS",CARTOONITO SD
-http://gol7990.com:80/live/vini105/884512ab/100248.m3u8
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://prostore.app/logos/cn.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD
-http://gol7990.com:80/live/vini105/884512ab/100255.m3u8
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://prostore.app/logos/dkids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD
-http://gol7990.com:80/live/vini105/884512ab/100262.m3u8
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD¹" tvg-logo="https://prostore.app/logos/gloob.png" group-title="CANAIS | INFANTIS",GLOOB SD¹
-http://gol7990.com:80/live/vini105/884512ab/100269.m3u8
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD" tvg-logo="https://prostore.app/logos/nickjr.png" group-title="CANAIS | INFANTIS",NICK JR SD
-http://gol7990.com:80/live/vini105/884512ab/100289.m3u8
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TC PIPOCA SD" tvg-logo="https://prostore.app/logos/teelcinepipoca.png" group-title="CANAIS | TELECINE",TC PIPOCA SD
-http://gol7990.com:80/live/vini105/884512ab/100567.m3u8
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TC TOUCH SD" tvg-logo="https://prostore.app/logos/telecinetouch.png" group-title="CANAIS | TELECINE",TC TOUCH SD
-http://gol7990.com:80/live/vini105/884512ab/100574.m3u8
-#EXTINF:-1 tvg-id="globo.amazonas.br" tvg-name="GLOBO AMAZONICA SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO AMAZONICA SD¹
-http://gol7990.com:80/live/vini105/884512ab/110879.m3u8
-#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV CAMPINAS SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD¹
-http://gol7990.com:80/live/vini105/884512ab/110882.m3u8
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA SD¹
-http://gol7990.com:80/live/vini105/884512ab/110883.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/469815.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM TAUBATE HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TEM TAUBATE HD¹
-http://gol7990.com:80/live/vini105/884512ab/111009.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/111009.m3u8
 #EXTINF:-1 tvg-id="globo.tribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO TV TRIBUNA SANTOS HD¹
-http://gol7990.com:80/live/vini105/884512ab/111010.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/111010.m3u8
 #EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL HD¹" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/RB_de_televisao_2021.png" group-title="CANAIS | ABERTO",REDE BRASIL HD¹
-http://gol7990.com:80/live/vini105/884512ab/111117.m3u8
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO SD¹" tvg-logo="https://images2.imgbox.com/b0/4a/9W4iFel0_o.png" group-title="CANAIS | DOCUMENTARIO",NATGEO SD¹
-http://gol7990.com:80/live/vini105/884512ab/113081.m3u8
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",Globo RJ SD¹
-http://gol7990.com:80/live/vini105/884512ab/113807.m3u8
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",Globo RJ SD²
-http://gol7990.com:80/live/vini105/884512ab/113808.m3u8
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",Globo SP SD¹
-http://gol7990.com:80/live/vini105/884512ab/113818.m3u8
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",Globo SP SD²
-http://gol7990.com:80/live/vini105/884512ab/113819.m3u8
-#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO MINAS SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS SD¹
-http://gol7990.com:80/live/vini105/884512ab/113839.m3u8
-#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="GLOBO MINAS SD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO MINAS SD²
-http://gol7990.com:80/live/vini105/884512ab/113840.m3u8
-#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="GLOBO INTER TV GRANDE MINAS SD" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO INTER TV GRANDE MINAS SD
-http://gol7990.com:80/live/vini105/884512ab/113846.m3u8
-#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="GLOBO EPTV SUL DE MINAS SD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="CANAIS | GLOBO",GLOBO EPTV SUL DE MINAS SD¹
-http://gol7990.com:80/live/vini105/884512ab/113853.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/111117.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV ES HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV ES HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/129878.m3u8
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/1200px-TV_Senado.svg.png" group-title="CANAIS | ABERTO",TV SENADO HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/119930.m3u8
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND TV RS HD¹" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV RS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/469462.m3u8
+#EXTINF:-1 tvg-id="band.bahia.br" tvg-name="BAND TV BAHIA HD¹" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV BAHIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/469463.m3u8
+#EXTINF:-1 tvg-id="tv.tribuna.br" tvg-name="BAND TV NORDESTE HD¹" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV NORDESTE HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/469464.m3u8
+#EXTINF:-1 tvg-id="band.belem.br" tvg-name="BAND TV CASCAVEL PR HD¹" tvg-logo="https://prostore.app/logos/band.png" group-title="CANAIS | BAND - SBT",BAND TV CASCAVEL PR HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/469469.m3u8
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT RJ HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/469479.m3u8
+#EXTINF:-1 tvg-id="sbt.brasilia.br" tvg-name="SBT BRASILIA HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT BRASILIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/469480.m3u8
+#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT MG HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT MG HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/469486.m3u8
+#EXTINF:-1 tvg-id="tv.guajara.mirim.br" tvg-name="SBT PA GUAJARA HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT PA GUAJARA HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/469489.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PE HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT PE HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/469490.m3u8
+#EXTINF:-1 tvg-id="sbt.para.br" tvg-name="SBT PR HD¹" tvg-logo="https://prostore.app/logos/sbt.png" group-title="CANAIS | BAND - SBT",SBT PR HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/469492.m3u8
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD TV BRASILIA HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV BRASILIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/129778.m3u8
+#EXTINF:-1 tvg-id="TV Record" tvg-name="RECORD TV MANAUS HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV MANAUS HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/129853.m3u8
+#EXTINF:-1 tvg-id="recordtv.belem.br" tvg-name="RECORD TV BELEM HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV BELEM HD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@TVSTREAMPRO[/COLOR][COLORlime][+][/COLOR]&maxbitrate=0&Buffer=20971520&url=http://gol7990.com:80/live/vini105/884512ab/129856.m3u8
