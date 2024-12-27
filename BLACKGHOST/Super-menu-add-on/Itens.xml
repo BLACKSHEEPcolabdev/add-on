@@ -5,3 +5,11 @@
 <fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
 <info>Um ataque repentino de Wulf, um implacável senhor Dunlending, força Helm Mão-de-Martelo e seu povo a fazer uma última resistência na antiga fortaleza de Hornburg. Encontrando-se em uma situação desesperadora, a filha de Helm lidera a resistência.</info>
 </item>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO [/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/BLACKSHEEPcolabdev/add-on/refs/heads/master/BLACKGHOST/20241226_130045_0000.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/BLACKSHEEPcolabdev/add-on/refs/heads/master/BLACKGHOST/Super-menu-add-on/Aventura_series.xml</externallink>
+<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
