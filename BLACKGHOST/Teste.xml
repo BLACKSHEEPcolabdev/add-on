@@ -12,7 +12,7 @@
 	
     <item>
         <title>ANIME</title>
-        <link>$doregex[resolver]</link>
+        <link>https://raw.githubusercontent.com/BLACKSHEEPcolabdev/add-on/refs/heads/master/BLACKGHOST/Testei.xml</link>
         <thumbnail>http://channel.png</thumbnail>
         <genre>Animation</genre>
         <info>Anime teste</info>
@@ -22,7 +22,7 @@
 		<regex>
 			<name>resolver</name>
 			<expres>"stream":.+?"(.*?)"</expres>
-			<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fyu-gi-oh-sevens%2Fepisodio%2F68825</page>
+			<page>https://raw.githubusercontent.com/BLACKSHEEPcolabdev/add-on/refs/heads/master/BLACKGHOST/Testei.xml825</page>
 		</regex>
     </item>	
 	
