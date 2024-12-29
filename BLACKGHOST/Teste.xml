@@ -18,7 +18,7 @@
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Animes</info>
-		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/BLACKSHEEPcolabdev/add-on/refs/heads/master/BLACKGHOST/S%C3%A9ries/911.xml</externallink>
     </channel>
 	
 	<channel>
