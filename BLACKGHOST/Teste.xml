@@ -14,7 +14,7 @@
 	<!-- opicional -->
     
     <channel>
-        <name>ANIMES</name>
+        <name>SÉRIES</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Animes</info>
