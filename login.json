@@ -1,9 +1,44 @@
 {
-  "username": "black",
-  "password": "black123"
-}
-
-{
-  "username": "joao123",
-  "password": "joao1234"
+  "users": [
+    {
+      "username": "black",
+      "password": "black123"
+    },
+    {
+      "username": "ghost",
+      "password": "ghost123"
+    },
+    {
+      "username": "usuario3",
+      "password": "senha3"
+    },
+    {
+      "username": "usuario4",
+      "password": "senha4"
+    },
+    {
+      "username": "usuario5",
+      "password": "senha5"
+    },
+    {
+      "username": "usuario6",
+      "password": "senha6"
+    },
+    {
+      "username": "usuario7",
+      "password": "senha7"
+    },
+    {
+      "username": "usuario8",
+      "password": "senha8"
+    },
+    {
+      "username": "usuario9",
+      "password": "senha9"
+    },
+    {
+      "username": "usuario10",
+      "password": "senha10"
+    }
+  ]
 }
