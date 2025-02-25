@@ -1,0 +1,7 @@
+{
+    "usuarios": [
+        {"usuario": "admin", "senha": "1234"},
+        {"usuario": "blackghost", "senha": "senha_segura"},
+        {"usuario": "novo_usuario", "senha": "nova_senha"}
+    ]
+}
