@@ -1,25 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tv.atalaia.br" tvg-name="RECORD TV ATALAIA HD" tvg-logo="https://prostore.app/logos/record.png" group-title="CANAIS | RECORD",RECORD TV ATALAIA HD
-http://go7l99a.com:80/live/vini105/884512ab/469815.m3u8
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL SD
-http://go7l99a.com:80/live/vini105/884512ab/4307.m3u8
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TC PREMIUM SD" tvg-logo="https://prostore.app/logos/telecinepremiu.png" group-title="CANAIS | TELECINE",TC PREMIUM SD
-http://go7l99a.com:80/live/vini105/884512ab/4316.m3u8
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TC FUN SD" tvg-logo="https://prostore.app/logos/telecinefun.png" group-title="CANAIS | TELECINE",TC FUN SD
-http://go7l99a.com:80/live/vini105/884512ab/4318.m3u8
-#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TC CULT SD" tvg-logo="https://prostore.app/logos/telecineculte.png" group-title="CANAIS | TELECINE",TC CULT SD
-http://go7l99a.com:80/live/vini105/884512ab/4319.m3u8
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TC ACTION SD" tvg-logo="https://prostore.app/logos/tcactinone.png" group-title="CANAIS | TELECINE",TC ACTION SD
-http://go7l99a.com:80/live/vini105/884512ab/4320.m3u8
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://images2.imgbox.com/76/53/pJquJCtz_o.png" group-title="CANAIS | FILMES E SERIES",TCM SD
-http://go7l99a.com:80/live/vini105/884512ab/4321.m3u8
-#EXTINF:-1 tvg-id="TNT-NOVELA" tvg-name="TNT NOVELAS SD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS | FILMES E SERIES",TNT NOVELAS SD
-http://go7l99a.com:80/live/vini105/884512ab/4322.m3u8
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://prostore.app/logos/space.png" group-title="CANAIS | FILMES E SERIES",SPACE SD
-http://go7l99a.com:80/live/vini105/884512ab/4328.m3u8
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://prostore.app/logos/megapx.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX SD
-http://go7l99a.com:80/live/vini105/884512ab/4354.m3u8
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://prostore.app/logos/hbomundisd.png" group-title="CANAIS | HBO",HBO MUNDI SD
-http://go7l99a.com:80/live/vini105/884512ab/4358.m3u8
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY SD" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY SD
-http://go7l99a.com:80/live/vini105/884512ab/4360.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="Estrela da Casa 4 HD" group-title="Canais | Power Couple",Estrela da Casa 4 HD
+plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/280937.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="Power Couple 1 FHD" group-title="Canais | Power Couple",Power Couple 1 FHD
+plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/320071.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="Power Couple 2 FHD" group-title="Canais | Power Couple",Power Couple 2 FHD
+plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/320072.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="Power Couple 3 FHD" group-title="Canais | Power Couple",Power Couple 3 FHD
+plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/320073.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="Power Couple 4 FHD" group-title="Canais | Power Couple",Power Couple 4 FHD
+plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/320074.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" tvg-name="AgroMais FHD" group-title="Canais | Abertos",AgroMais FHD
+plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/71764.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" tvg-name="AgroMais FHD [H265]" group-title="Canais | Abertos",AgroMais FHD [H265]
+plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/71765.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" tvg-name="AgroMais HD" group-title="Canais | Abertos",AgroMais HD
+plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/71766.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" tvg-name="AgroMais SD" group-title="Canais | Abertos",AgroMais SD
+plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/71767.m3u8
+#EXTINF:-1 tvg-logo="http://club.potv.bz/static/logos/canais/band.png" tvg-name="Band SP FHD" group-title="Canais | Abertos",Band SP FHD
+plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/79311.m3u8
+#EXTINF:-1 tvg-logo="http://club.potv.bz/images/abb329697106ebb6f051ab5ab2d39dfd.png" tvg-name="Band SP FHD [H265]" group-title="Canais | Abertos",Band SP FHD [H265]
+plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/104943.m3u8
