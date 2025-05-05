@@ -1,0 +1,12 @@
+{
+  "canais": [
+    {
+      "nome": "Lista Carlos",
+      "url": "http://tvhdblack.pro/get.php?username=carlos10&password=102030&type=m3u_plus&output=m3u8"
+    },
+    {
+      "nome": "Lista Maria",
+      "url": "http://exemplo.com/get.php?username=maria&password=abc123&type=m3u_plus&output=m3u8"
+    }
+  ]
+}
