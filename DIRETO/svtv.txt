@@ -1,4 +1,4 @@
-
+<item>
 <canal>
 <canais>
 <name>[B][COLOR yellow]TVSTREAMPRO[/B] [B]||[/B] [B][COLOR lime]SERVIDOR 01[/B][/COLOR]</name>
@@ -10,6 +10,7 @@
 <genre>[COLOR white][B]Acompanhe a Casa do BBB|[COLOR yellow][B] Atualizado 28/08 23:02[/B][/COLOR]</genre>
 </canal>
 </canais>
+</item>
 
 
 
