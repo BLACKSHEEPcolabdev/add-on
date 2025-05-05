@@ -1,4 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="5f1ac8099c49f600076579b2" tvg-name="Cine Comédia" tvg-logo="https://imgur.com/fUCGYqp.png" group-title="CANAIS GLOBO SUDESTE",Cine Comédia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=Cine+Comédia&url=http%3A%2F%2Fsaga10.pro%3A80%2Flive%2F461077%2F339128%2F393030.m3u8
