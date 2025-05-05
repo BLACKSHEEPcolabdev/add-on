@@ -1,4 +1,10 @@
 [
-  "http://tvhdblack.pro/get.php?username=carlos10&password=102030&type=m3u_plus&output=m3u8",
-  "http://outrolink.com/get.php?username=usuario&password=senha&type=m3u_plus&output=m3u8"
+  {
+    "nome": "TV Carlos",
+    "url": "http://tvhdblack.pro/get.php?username=carlos10&password=102030&type=m3u_plus&output=m3u8"
+  },
+  {
+    "nome": "Filmes HD",
+    "url": "http://outroservidor.com/lista2.m3u8"
+  }
 ]
