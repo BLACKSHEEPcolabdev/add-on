@@ -1,3 +1,18 @@
 [
-  ["http://cinepulse.live:80", "826799787", "978265497"]
+    {
+        "name": "LISTA 1",
+        "description": "",
+        "dns": "http://cinepulse.live:80",
+        "username": "826799787",
+        "password": "978265497",
+        "originaltitle": ""
+    },
+    {
+        "name": "LISTA 2",
+        "description": "",
+        "dns": "http://zeusplayy.site:80",
+        "username": "amigostreaming13",
+        "password": "13stremingamigo",
+        "originaltitle": ""
+    }
 ]
