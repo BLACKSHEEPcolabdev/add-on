@@ -1,2 +1,18 @@
-http://zeusplayy.site:80/get.php?username=amigostreaming13&password=13stremingamigo&type=m3u_plus&output=mpegts
-http://dns.carnes.ink:80/get.php?username=1junior6227luiz&password=62728juni73729&type=m3u_plus&output=m3u8
+[
+  {
+    "name": "LISTA 1",
+    "description": "Servidor CinePulse",
+    "dns": "http://cinepulse.live:80",
+    "username": "826799787",
+    "password": "978265497",
+    "originaltitle": ""
+  },
+  {
+    "name": "LISTA 2",
+    "description": "Servidor reserva",
+    "dns": "http://painel2.exemplo.com:80",
+    "username": "usuario2",
+    "password": "senha2",
+    "originaltitle": ""
+  }
+]
